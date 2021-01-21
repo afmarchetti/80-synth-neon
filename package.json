@@ -38,8 +38,8 @@
   "name": "80-synth-neon",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/afmarchetti/80-synth-neon.git"
+    "url": "https://github.com/afmarchetti/80-synth-neon.git"
   },
   "theme": "syntax",
-  "version": "2.2.0"
+  "version": "2.1.0"
 }
